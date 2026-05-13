@@ -1,6 +1,6 @@
-# Cara penggunaan
-Lakukan embedded ke website anda seperti di bawah ini dan tambahkan di dalam body.
-```bash
+# How to use
+Embed it into your website as below and add it inside the body.
+```javascript
 <script src="https://cdn.jsdelivr.net/gh/dzikrymh/cdn-softphone-widget@1.0.0/softphone-widget.js"></script>
   <script>
     // Ganti nilai di bawah untuk testing
